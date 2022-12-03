@@ -1,6 +1,6 @@
 👋 Hi, **Arnout** here
 
-Currently _freelance_ **Scala** programmar by day, **Clojure** programmer by night
+Currently _freelance_ **Scala** programmar by day, **Clojure** programmer by night.  
 Though that has been the _other way around_ as well
 
 My ❤️ for **Clojure** can be seen when looking at my repositories, such as
